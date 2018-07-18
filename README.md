@@ -18,6 +18,7 @@ mvn clean install
 * https://piotrminkowski.wordpress.com/2018/04/26/quick-guide-to-microservices-with-spring-boot-2-0-eureka-and-spring-cloud/
 * https://github.com/piomin/sample-spring-microservices-new
 * https://github.com/ityouknow/spring-cloud-examples
+* http://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
 
 # Issues
 * sample

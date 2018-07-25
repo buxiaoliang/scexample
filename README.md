@@ -8,6 +8,8 @@
 * java -jar discovery-service/target/discovery-service-1.0-SNAPSHOT.jar to open http://localhost:8061/
 * java -jar example-service/target/example-service-1.0-SNAPSHOT.jar to open http://localhost:8090/
 * java -jar employee-service/target/employee-service-1.0-SNAPSHOT.jar to open http://localhost:8091/
+* java -jar gateway-service/target/gateway-service-1.0-SNAPSHOT.jar to open http://localhost:8060/ using geteway without swagger
+* java -jar gateway-service/target/gateway-service-1.0-SNAPSHOT.jar to open http://localhost:8060/ using zuul with swagger
 
 ## Rest
 * http://localhost:8080/swagger-ui.html to see REST API implmentation
